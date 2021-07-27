@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
+
+.intro {
+  height: 100vh;
+  width: 100%;
+  background-color: #390099;
+  margin-top: 100px;
+
+    .container {
+        margin-top: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+        h1 {
+            color: white;
+            text-align: center;
+            font-size: 60px;
+        }
+
+        img {
+            width: 90%;
+            height: 90%;
+            margin-top: 20px;
+            border-radius: 30%;
+        }
+
+        h3 {
+            margin-top: 20px;
+            color: white;
+            text-align: center;
+            font-size: 40px;
+        }
+  
+
+    }
+    
+ 
+    
+}
